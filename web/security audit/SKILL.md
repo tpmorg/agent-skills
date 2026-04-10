@@ -1,5 +1,5 @@
 ---
-name: security-audit
+name: web-audit
 description: >
   Comprehensive security audit for web applications built with Next.js, Supabase, and Stripe.
   Runs sub-audits covering: Supabase RLS & SQL injection, API route auth & middleware,

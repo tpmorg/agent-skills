@@ -1,5 +1,5 @@
 ---
-name: security-audit
+name: android-audit
 description: >
   Comprehensive security audit for web and Android applications built with Next.js,
   Supabase, Stripe, and Kotlin/Android. Runs sub-audits covering: Supabase RLS & SQL
